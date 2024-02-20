@@ -9,7 +9,7 @@ Ensure you have the following software installed on your system:
 
 - GHDL
 - GTKWave
-- xilinx
+- nvim
 
 ## Getting Started
 

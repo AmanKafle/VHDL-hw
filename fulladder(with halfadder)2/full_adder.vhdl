@@ -9,7 +9,7 @@ port(
 );
 
 end full_adder;
-architecture behavior of full_adder is
+architecture structural of full_adder is
 
 	component half_adder 
 	port(

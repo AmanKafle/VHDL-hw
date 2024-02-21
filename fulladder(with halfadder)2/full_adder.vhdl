@@ -30,6 +30,6 @@ begin
     component2:half_adder port map(A=>T1,B=>Cin,S=>Sout,C=>T3);
     component3:or_gate port map(bit1=>T3,bit2=>T2,result=>Cout);
 
-end behavior; 
+end structural; 
 
 
